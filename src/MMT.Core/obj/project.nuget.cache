@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "1C/ppLXNkIx6QTBi5OletKqwCN2FMHnxKnd9Jcx2J72lhgXIceEc4jSWHfJ+bc1KJ/YAnNY9IPdA98w7ecL7Nw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\MMT.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Stefano.Pica\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
+    "C:\\Users\\Stefano.Pica\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",
+    "C:\\Users\\Stefano.Pica\\.nuget\\packages\\system.security.accesscontrol\\4.7.0\\system.security.accesscontrol.4.7.0.nupkg.sha512",
+    "C:\\Users\\Stefano.Pica\\.nuget\\packages\\system.security.principal.windows\\4.7.0\\system.security.principal.windows.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

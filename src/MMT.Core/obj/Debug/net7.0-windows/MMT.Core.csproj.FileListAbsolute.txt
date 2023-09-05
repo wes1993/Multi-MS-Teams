@@ -1,0 +1,11 @@
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\bin\Debug\net7.0-windows\MMT.Core.deps.json
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\bin\Debug\net7.0-windows\MMT.Core.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\bin\Debug\net7.0-windows\MMT.Core.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\MMT.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\MMT.Core.AssemblyInfoInputs.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\MMT.Core.AssemblyInfo.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\MMT.Core.csproj.CoreCompileInputs.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\MMT.Core.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\refint\MMT.Core.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\MMT.Core.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.Core\obj\Debug\net7.0-windows\ref\MMT.Core.dll

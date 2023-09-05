@@ -1,0 +1,34 @@
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Multi MS Teams.exe
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Multi MS Teams.deps.json
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Multi MS Teams.runtimeconfig.json
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Multi MS Teams.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\ControlzEx.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\MahApps.Metro.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\MMT.Core.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\MMT.Core.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.csproj.AssemblyReference.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MainWindow.g.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\App.g.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\Multi MS Teams_MarkupCompile.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\Multi MS Teams_MarkupCompile.lref
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\App.baml
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MainWindow.baml
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\Multi MS Teams.g.resources
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.Resource.resources
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.csproj.GenerateResource.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.AssemblyInfoInputs.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.AssemblyInfo.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.csproj.CoreCompileInputs.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.csproj.CopyComplete
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\refint\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\Multi MS Teams.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\MMT.UI.genruntimeconfig.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\ref\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\ChooseProfileForLinkWindow.baml
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\ChooseProfileForLinkWindow.g.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\Hardcodet.NotifyIcon.Wpf.dll

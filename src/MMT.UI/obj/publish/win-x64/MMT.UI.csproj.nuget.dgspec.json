@@ -1,0 +1,155 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.UI\\MMT.UI.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\MMT.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\MMT.Core.csproj",
+        "projectName": "MMT.Core",
+        "projectPath": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\MMT.Core.csproj",
+        "packagesPath": "C:\\Users\\Stefano.Pica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefano.Pica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.Win32.Registry": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.UI\\MMT.UI.csproj": {
+      "version": "1.0.0.5",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.UI\\MMT.UI.csproj",
+        "projectName": "Multi MS Teams",
+        "projectPath": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.UI\\MMT.UI.csproj",
+        "packagesPath": "C:\\Users\\Stefano.Pica\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.UI\\obj\\publish\\win-x64\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Stefano.Pica\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\MMT.Core.csproj": {
+                "projectPath": "C:\\Users\\Stefano.Pica\\Desktop\\multiTeams-master\\src\\MMT.Core\\MMT.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Hardcodet.NotifyIcon.Wpf": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "MahApps.Metro": {
+              "target": "Package",
+              "version": "[2.4.10, )"
+            },
+            "Microsoft.VisualBasic": {
+              "target": "Package",
+              "version": "[10.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WPF": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win-x64": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,12 @@
+C:\Users\Stefano.Pica\Desktop\AAA\Multi MS Teams.exe
+C:\Users\Stefano.Pica\Desktop\AAA\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\AAA\Multi MS Teams.deps.json
+C:\Users\Stefano.Pica\Desktop\AAA\Multi MS Teams.runtimeconfig.json
+C:\Users\Stefano.Pica\Desktop\AAA\Multi MS Teams.pdb
+C:\Users\Stefano.Pica\Desktop\AAA\ControlzEx.dll
+C:\Users\Stefano.Pica\Desktop\AAA\Hardcodet.NotifyIcon.Wpf.dll
+C:\Users\Stefano.Pica\Desktop\AAA\MahApps.Metro.dll
+C:\Users\Stefano.Pica\Desktop\AAA\Microsoft.Xaml.Behaviors.dll
+C:\Users\Stefano.Pica\Desktop\AAA\de\MahApps.Metro.resources.dll
+C:\Users\Stefano.Pica\Desktop\AAA\MMT.Core.dll
+C:\Users\Stefano.Pica\Desktop\AAA\MMT.Core.pdb

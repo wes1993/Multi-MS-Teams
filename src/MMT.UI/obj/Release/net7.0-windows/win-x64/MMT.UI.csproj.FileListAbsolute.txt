@@ -1,0 +1,34 @@
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Multi MS Teams.exe
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Multi MS Teams.deps.json
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Multi MS Teams.runtimeconfig.json
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Multi MS Teams.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\ControlzEx.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\MahApps.Metro.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Microsoft.Xaml.Behaviors.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\de\MahApps.Metro.resources.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\MMT.Core.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\MMT.Core.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.csproj.AssemblyReference.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MainWindow.g.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\App.g.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\Multi MS Teams_MarkupCompile.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\Multi MS Teams_MarkupCompile.lref
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\App.baml
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MainWindow.baml
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\Multi MS Teams.g.resources
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.Resource.resources
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.csproj.GenerateResource.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.AssemblyInfoInputs.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.AssemblyInfo.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.csproj.CoreCompileInputs.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.csproj.CopyComplete
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\refint\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\Multi MS Teams.pdb
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\MMT.UI.genruntimeconfig.cache
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\ref\Multi MS Teams.dll
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\ChooseProfileForLinkWindow.baml
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\obj\Release\net7.0-windows\win-x64\ChooseProfileForLinkWindow.g.cs
+C:\Users\Stefano.Pica\Desktop\multiTeams-master\src\MMT.UI\bin\Release\net7.0-windows\win-x64\Hardcodet.NotifyIcon.Wpf.dll
