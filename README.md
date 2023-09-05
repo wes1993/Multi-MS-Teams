@@ -7,25 +7,18 @@ Launcher to manage profiles and open multiple instances of Microsoft Teams deskt
 <img src="https://user-images.githubusercontent.com/18350851/83556948-2c8c1500-a4e7-11ea-8b89-6ae092e3b5b0.png">
 </p>
 
-## Support
-
-If this project help you, you can buy me a coffee :)
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=QRGN6P42KKBXN&currency_code=USD&source=url)
 
 ## Built With
 * .NET Core
 * WPF
 * [MahApps](https://mahapps.com/)
-* [WPF NotifyIcon](https://github.com/hardcodet/wpf-notifyicon)
 
 ## Prerequisites
 
 * Microsoft Teams
-* .NET Core
+* .NET Core 7
 
 ## Releases
-You can download the latest version in [Releases](https://github.com/TonCunha/multi-microsoft-teams/releases)
 
 ## Deployment
 
@@ -51,7 +44,9 @@ You can download the latest version in [Releases](https://github.com/TonCunha/mu
 5. You can check Auto Start option to launch all profiles when Windows starts
 
 ## Authors
-
+* **wes1993** - *Fixed Tray Icon and implement URL Handle* - [wes1993](https://github.com/wes1993)
+* **Bogomaz Dmitry** - *Handle URL* - [Bogomaz Dmitry](https://github.com/bogomazdmitry)
+* **Nicolas PERNOT** - *Massive rework* - [Nicolas PERNOT](https://github.com/hyryel)
 * **Cleriton Cunha** - *Initial work* - [TonCunha](https://github.com/TonCunha)
 
 ## License
